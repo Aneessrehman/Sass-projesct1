@@ -4,11 +4,11 @@
 @keyframes moveinleft {
     0% {
         opacity: 0;
-        transform: translateX(-100px);
+        transform: translateX(-10rem);
     }
 
     80% {
-        transform: translateX(10px);
+        transform: translateX(1rem);
     }
 
     100% {
@@ -20,11 +20,11 @@
 @keyframes moveinright {
     0% {
         opacity: 0;
-        transform: translateX(100px);
+        transform: translateX(10rem);
     }
 
     80% {
-        transform: translateX(-10px);
+        transform: translateX(-1rem);
     }
 
     100% {
@@ -36,7 +36,7 @@
 @keyframes moveinbottom {
     0% {
         opacity: 0;
-        transform: translatey(30px);
+        transform: translatey(3rem);
     }
 
     100% {
